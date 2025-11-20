@@ -1,2 +1,2 @@
 # PasswordGen
-A random password generator using PyInt and Keyboard libraries.
+A random password generator using random and string libraries.
